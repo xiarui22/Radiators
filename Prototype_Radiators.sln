@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype_Radiators.Plugins", "Prototype_Radiators.Plugins.csproj", "{1997DF59-9840-3686-E261-4A38AFC460E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype_Radiators", "Prototype_Radiators.csproj", "{0E189E93-BC17-99AF-A177-116E7DB5C972}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype_Radiators.Editor.Plugins", "Prototype_Radiators.Editor.Plugins.csproj", "{E2B7EC7C-1D50-9D0F-4149-479FA4B37BDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype_Radiators.Editor", "Prototype_Radiators.Editor.csproj", "{7CF56955-91E0-14CB-03C4-85FBE2852236}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1997DF59-9840-3686-E261-4A38AFC460E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1997DF59-9840-3686-E261-4A38AFC460E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1997DF59-9840-3686-E261-4A38AFC460E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1997DF59-9840-3686-E261-4A38AFC460E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E189E93-BC17-99AF-A177-116E7DB5C972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E189E93-BC17-99AF-A177-116E7DB5C972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E189E93-BC17-99AF-A177-116E7DB5C972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E189E93-BC17-99AF-A177-116E7DB5C972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2B7EC7C-1D50-9D0F-4149-479FA4B37BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2B7EC7C-1D50-9D0F-4149-479FA4B37BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2B7EC7C-1D50-9D0F-4149-479FA4B37BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2B7EC7C-1D50-9D0F-4149-479FA4B37BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CF56955-91E0-14CB-03C4-85FBE2852236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CF56955-91E0-14CB-03C4-85FBE2852236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CF56955-91E0-14CB-03C4-85FBE2852236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CF56955-91E0-14CB-03C4-85FBE2852236}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
